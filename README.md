@@ -10,3 +10,5 @@
 6. Evaluación del desempeño en sostenibilidad de las empresas.
 
 [Referencias](referencias.md)
+
+[Autores](autores.md)
